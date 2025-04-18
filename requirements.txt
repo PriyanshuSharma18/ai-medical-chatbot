@@ -1,0 +1,12 @@
+streamlit==1.26.0
+transformers==4.35.0
+torch==2.2.1
+accelerate==0.24.1
+sentencepiece==0.1.99
+streamlit
+pandas
+sentence-transformers
+torch
+deep-translator
+google-generativeai
+python-dotenv
