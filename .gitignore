@@ -1,0 +1,17 @@
+# Ignore system files
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# Ignore virtual environments
+venv/
+env/
+
+
+# Ignore sensitive config files
+config.json
+.env
+
+# Ignore Streamlit cache
+.streamlit/
