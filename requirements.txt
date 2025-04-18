@@ -10,3 +10,11 @@ torch
 deep-translator
 google-generativeai
 python-dotenv
+sentence-transformers
+streamlit
+pandas
+sentence-transformers
+openai
+deep-translator
+
+google-generativeai
